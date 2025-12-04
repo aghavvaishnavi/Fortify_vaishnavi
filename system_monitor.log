@@ -1,0 +1,896 @@
+Monitor started at 2025-12-04 13:45:57
+USB polling started
+[2025-12-04 13:46:02] SYSTEM STATS
+CPU Usage: 0.0%
+Memory Usage: 65.8%
+Disk I/O: 1.89 MB/s
+Network I/O: 0.04 MB/s
+[2025-12-04 13:46:07] SYSTEM STATS
+CPU Usage: 13.5%
+Memory Usage: 66.3%
+Disk I/O: 19.94 MB/s
+Network I/O: 0.02 MB/s
+[2025-12-04 13:46:12] SYSTEM STATS
+CPU Usage: 12.9%
+Memory Usage: 66.6%
+Disk I/O: 1.43 MB/s
+Network I/O: 0.03 MB/s
+[2025-12-04 13:46:17] SYSTEM STATS
+CPU Usage: 19.3%
+Memory Usage: 66.7%
+Disk I/O: 1.10 MB/s
+Network I/O: 0.00 MB/s
+[2025-12-04 13:46:22] SYSTEM STATS
+CPU Usage: 16.2%
+Memory Usage: 66.5%
+Disk I/O: 85.81 MB/s
+Network I/O: 0.01 MB/s
+[2025-12-04 13:46:27] SYSTEM STATS
+CPU Usage: 15.8%
+Memory Usage: 66.4%
+Disk I/O: 108.97 MB/s
+Network I/O: 0.00 MB/s
+[2025-12-04 13:46:32] SYSTEM STATS
+CPU Usage: 16.5%
+Memory Usage: 66.4%
+Disk I/O: 111.84 MB/s
+Network I/O: 0.01 MB/s
+[2025-12-04 13:46:37] SYSTEM STATS
+CPU Usage: 10.8%
+Memory Usage: 66.3%
+Disk I/O: 76.87 MB/s
+Network I/O: 0.01 MB/s
+[2025-12-04 13:46:42] SYSTEM STATS
+CPU Usage: 12.0%
+Memory Usage: 66.5%
+Disk I/O: 1.11 MB/s
+Network I/O: 0.01 MB/s
+[2025-12-04 13:46:47] SYSTEM STATS
+CPU Usage: 10.5%
+Memory Usage: 65.9%
+Disk I/O: 0.37 MB/s
+Network I/O: 0.00 MB/s
+[2025-12-04 13:46:52] SYSTEM STATS
+CPU Usage: 12.7%
+Memory Usage: 65.8%
+Disk I/O: 0.19 MB/s
+Network I/O: 0.01 MB/s
+[2025-12-04 13:46:57] SYSTEM STATS
+CPU Usage: 9.8%
+Memory Usage: 65.8%
+Disk I/O: 0.55 MB/s
+Network I/O: 0.00 MB/s
+[2025-12-04 13:47:02] SYSTEM STATS
+CPU Usage: 10.3%
+Memory Usage: 65.8%
+Disk I/O: 0.26 MB/s
+Network I/O: 0.01 MB/s
+[2025-12-04 13:47:07] SYSTEM STATS
+CPU Usage: 11.0%
+Memory Usage: 65.8%
+Disk I/O: 0.45 MB/s
+Network I/O: 0.01 MB/s
+[2025-12-04 13:47:12] SYSTEM STATS
+CPU Usage: 12.6%
+Memory Usage: 65.8%
+Disk I/O: 0.45 MB/s
+Network I/O: 0.01 MB/s
+[2025-12-04 13:47:17] SYSTEM STATS
+CPU Usage: 12.0%
+Memory Usage: 65.5%
+Disk I/O: 0.88 MB/s
+Network I/O: 0.04 MB/s
+[2025-12-04 13:47:22] SYSTEM STATS
+CPU Usage: 13.3%
+Memory Usage: 65.7%
+Disk I/O: 0.67 MB/s
+Network I/O: 0.01 MB/s
+[2025-12-04 13:47:27] SYSTEM STATS
+CPU Usage: 20.9%
+Memory Usage: 65.7%
+Disk I/O: 0.71 MB/s
+Network I/O: 0.01 MB/s
+[2025-12-04 13:47:32] SYSTEM STATS
+CPU Usage: 16.7%
+Memory Usage: 66.0%
+Disk I/O: 59.55 MB/s
+Network I/O: 0.04 MB/s
+[2025-12-04 13:47:37] SYSTEM STATS
+CPU Usage: 18.2%
+Memory Usage: 66.3%
+Disk I/O: 117.61 MB/s
+Network I/O: 0.00 MB/s
+[2025-12-04 13:47:42] SYSTEM STATS
+CPU Usage: 14.4%
+Memory Usage: 66.4%
+Disk I/O: 121.12 MB/s
+Network I/O: 0.02 MB/s
+[2025-12-04 13:47:47] SYSTEM STATS
+CPU Usage: 12.7%
+Memory Usage: 66.2%
+Disk I/O: 81.05 MB/s
+Network I/O: 0.02 MB/s
+[2025-12-04 13:47:52] SYSTEM STATS
+CPU Usage: 13.3%
+Memory Usage: 66.2%
+Disk I/O: 0.58 MB/s
+Network I/O: 0.02 MB/s
+[2025-12-04 13:47:57] SYSTEM STATS
+CPU Usage: 14.7%
+Memory Usage: 66.2%
+Disk I/O: 103.35 MB/s
+Network I/O: 0.01 MB/s
+[2025-12-04 13:48:02] SYSTEM STATS
+CPU Usage: 15.2%
+Memory Usage: 66.2%
+Disk I/O: 117.44 MB/s
+Network I/O: 0.00 MB/s
+[2025-12-04 13:48:07] SYSTEM STATS
+CPU Usage: 22.3%
+Memory Usage: 66.6%
+Disk I/O: 144.99 MB/s
+Network I/O: 0.00 MB/s
+[2025-12-04 13:48:12] SYSTEM STATS
+CPU Usage: 12.7%
+Memory Usage: 66.6%
+Disk I/O: 33.61 MB/s
+Network I/O: 0.04 MB/s
+[2025-12-04 13:48:17] SYSTEM STATS
+CPU Usage: 19.9%
+Memory Usage: 66.7%
+Disk I/O: 1.88 MB/s
+Network I/O: 0.04 MB/s
+[2025-12-04 13:48:22] SYSTEM STATS
+CPU Usage: 15.9%
+Memory Usage: 66.0%
+Disk I/O: 2.32 MB/s
+Network I/O: 0.05 MB/s
+[2025-12-04 13:48:27] SYSTEM STATS
+CPU Usage: 22.0%
+Memory Usage: 66.7%
+Disk I/O: 1.29 MB/s
+Network I/O: 0.01 MB/s
+[2025-12-04 13:48:32] SYSTEM STATS
+CPU Usage: 17.5%
+Memory Usage: 66.3%
+Disk I/O: 61.37 MB/s
+Network I/O: 0.01 MB/s
+[2025-12-04 13:48:37] SYSTEM STATS
+CPU Usage: 13.5%
+Memory Usage: 65.6%
+Disk I/O: 126.08 MB/s
+Network I/O: 0.00 MB/s
+[2025-12-04 13:48:42] SYSTEM STATS
+CPU Usage: 12.6%
+Memory Usage: 65.7%
+Disk I/O: 109.42 MB/s
+Network I/O: 0.01 MB/s
+[2025-12-04 13:48:47] SYSTEM STATS
+CPU Usage: 11.1%
+Memory Usage: 65.8%
+Disk I/O: 90.15 MB/s
+Network I/O: 0.03 MB/s
+[2025-12-04 13:48:52] SYSTEM STATS
+CPU Usage: 22.9%
+Memory Usage: 66.3%
+Disk I/O: 3.52 MB/s
+Network I/O: 0.07 MB/s
+[2025-12-04 13:48:57] SYSTEM STATS
+CPU Usage: 9.4%
+Memory Usage: 65.9%
+Disk I/O: 1.98 MB/s
+Network I/O: 0.00 MB/s
+[2025-12-04 13:49:02] SYSTEM STATS
+CPU Usage: 10.3%
+Memory Usage: 66.1%
+Disk I/O: 13.01 MB/s
+Network I/O: 0.00 MB/s
+[2025-12-04 13:49:07] SYSTEM STATS
+CPU Usage: 9.9%
+Memory Usage: 66.2%
+Disk I/O: 6.58 MB/s
+Network I/O: 0.01 MB/s
+[2025-12-04 13:49:12] SYSTEM STATS
+CPU Usage: 11.7%
+Memory Usage: 65.8%
+Disk I/O: 1.47 MB/s
+Network I/O: 0.00 MB/s
+[2025-12-04 13:49:17] SYSTEM STATS
+CPU Usage: 11.9%
+Memory Usage: 66.1%
+Disk I/O: 1.08 MB/s
+Network I/O: 0.02 MB/s
+[2025-12-04 13:49:22] SYSTEM STATS
+CPU Usage: 6.7%
+Memory Usage: 65.7%
+Disk I/O: 0.67 MB/s
+Network I/O: 0.00 MB/s
+[2025-12-04 13:49:27] SYSTEM STATS
+CPU Usage: 14.1%
+Memory Usage: 65.8%
+Disk I/O: 0.59 MB/s
+Network I/O: 0.01 MB/s
+Monitor started at 2025-12-04 20:39:04
+USB polling started
+[2025-12-04 20:39:09] SYSTEM STATS
+CPU Usage: 0.0%
+Memory Usage: 67.5%
+Disk I/O: 72.18 MB/s
+Network I/O: 0.10 MB/s
+[2025-12-04 20:39:14] SYSTEM STATS
+CPU Usage: 23.2%
+Memory Usage: 66.5%
+Disk I/O: 88.35 MB/s
+Network I/O: 0.07 MB/s
+[2025-12-04 20:39:19] SYSTEM STATS
+CPU Usage: 9.0%
+Memory Usage: 66.2%
+Disk I/O: 3.53 MB/s
+Network I/O: 0.10 MB/s
+[2025-12-04 20:39:22] USB INSERTED: D:\
+Process Snapshot
+PID        NAME                CPU%      MEM%
+0         System Idle Process 0.00      0.00
+4         System              0.00      0.08
+188                           0.00      0.38
+232       Registry            0.00      0.26
+760       svchost.exe         0.00      0.11
+792       smss.exe            0.00      0.01
+1132      csrss.exe           0.00      0.04
+1220      wininit.exe         0.00      0.05
+1228      csrss.exe           0.00      0.05
+1288      winlogon.exe        0.00      0.10
+1300      ctfmon.exe          0.00      0.23
+1348      TiWorker.exe        0.00      0.11
+1368      services.exe        0.00      0.08
+1376      LsaIso.exe          0.00      0.02
+1392      MoUsoCoreWorker.exe 0.00      0.23
+1396      lsass.exe           0.00      0.21
+1412      svchost.exe         0.00      0.07
+1468      svchost.exe         0.00      0.05
+1524      msedge.exe          0.00      0.12
+1536      fontdrvhost.exe     0.00      0.02
+1544      fontdrvhost.exe     0.00      0.03
+1560      svchost.exe         0.00      0.28
+1568      TextInputHost.exe   0.00      0.61
+1652      WUDFHost.exe        0.00      0.08
+1660      msedgewebview2.exe  0.00      0.14
+1708      svchost.exe         0.00      0.14
+1716      chrome.exe          0.00      0.06
+1752      svchost.exe         0.00      0.08
+1836      svchost.exe         0.00      0.06
+1860      dwm.exe             0.00      1.15
+1880      WUDFHost.exe        0.00      0.12
+1912      chrome.exe          0.00      2.12
+1952      svchost.exe         0.00      0.04
+1980      svchost.exe         0.00      0.08
+1996      msedge.exe          0.00      0.53
+2004      svchost.exe         0.00      0.08
+2068      svchost.exe         0.00      0.06
+2088      svchost.exe         0.00      0.09
+2096      svchost.exe         0.00      0.08
+2104      svchost.exe         0.00      0.10
+2200      mc-web-view.exe     0.00      0.15
+2252      IntelCpHDCPSvc.exe  0.00      0.05
+2260      svchost.exe         0.00      0.14
+2268      svchost.exe         0.00      0.07
+2388      ShellExperienceHost.exe0.00      0.86
+2428      svchost.exe         0.00      0.09
+2436      svchost.exe         0.00      0.14
+2452      conhost.exe         0.00      0.04
+2504      svchost.exe         0.00      0.07
+2544      svchost.exe         0.00      0.04
+2660      RuntimeBroker.exe   0.00      0.30
+2680      WUDFHost.exe        0.00      0.09
+2724      svchost.exe         0.00      0.09
+2804      Code.exe            0.00      0.95
+2924      mc-wps-secdashboardservice.exe0.00      0.06
+2956      chrome.exe          0.00      0.36
+2992      svchost.exe         0.00      0.08
+3000      svchost.exe         0.00      0.06
+3028      svchost.exe         0.00      0.14
+3092      svchost.exe         0.00      0.12
+3100      svchost.exe         0.00      0.06
+3108      svchost.exe         0.00      0.05
+3120      WUDFHost.exe        0.00      0.04
+3232      RuntimeBroker.exe   0.00      0.12
+3288      svchost.exe         0.00      0.08
+3296      MemCompression      0.00      5.70
+3364      svchost.exe         0.00      0.07
+3372      svchost.exe         0.00      0.06
+3428      WUDFHost.exe        0.00      0.05
+3528      svchost.exe         0.00      0.16
+3572      svchost.exe         0.00      0.06
+3680      svchost.exe         0.00      0.15
+3740      NisSrv.exe          0.00      0.09
+3788      msedge.exe          0.00      0.26
+3876      svchost.exe         0.00      0.08
+3948      svchost.exe         0.00      0.15
+3964      chrome.exe          0.00      1.48
+3976      svchost.exe         0.00      0.13
+3992      chrome.exe          0.00      0.39
+4036      spoolsv.exe         0.00      0.12
+4068      chrome.exe          0.00      0.19
+4088      svchost.exe         0.00      0.13
+4108      svchost.exe         0.00      0.06
+4124      svchost.exe         0.00      0.15
+4244      ElevocControlService.exe0.00      0.07
+4260      OneApp.IGCC.WinService.exe0.00      0.23
+4272      Lenovo.Modern.ImController.exe0.00      0.31
+4280      svchost.exe         0.00      0.42
+4304      svchost.exe         0.00      0.19
+4312      LsaRpcServer.exe    0.00      0.21
+4320      LenovoVantageService.exe0.00      0.39
+4328      LenovoUtilityService.exe0.00      0.11
+4336      LNBITSSvc.exe       0.00      0.12
+4344      svchost.exe         0.00      0.19
+4368      DAX3API.exe         0.00      0.13
+4384      chrome.exe          0.00      0.14
+4388      IntelAudioService.exe0.00      0.18
+4400      ipfsvc.exe          0.00      0.04
+4456      RuntimeBroker.exe   0.00      0.07
+4492      jhi_service.exe     0.00      0.05
+4508      svchost.exe         0.00      0.09
+4524      servicehost.exe     0.00      0.25
+4560      mc-fw-host.exe      0.00      1.23
+4584      RtkBtManServ.exe    0.00      0.05
+4600      OfficeClickToRun.exe0.00      0.29
+4624      ipf_uf.exe          0.00      0.05
+4644      SmartAppearanceSVC.exe0.00      0.08
+4656      RtkAudUService64.exe0.00      0.10
+4668      MpDefenderCoreService.exe0.00      0.16
+4728      svchost.exe         0.00      0.04
+4752      UDClientService.exe 0.00      0.32
+4796      svchost.exe         0.00      0.17
+4832      WMIRegistrationService.exe0.00      0.10
+4856      svchost.exe         0.00      0.17
+4860      svchost.exe         0.00      0.06
+4896      MsMpEng.exe         0.00      1.77
+4928      svchost.exe         0.00      0.15
+5024      FileCoAuth.exe      0.00      0.27
+5060      backgroundTaskHost.exe0.00      0.13
+5068      dllhost.exe         0.00      0.06
+5340      svchost.exe         0.00      0.07
+5380      svchost.exe         0.00      0.06
+5408      svchost.exe         0.00      0.07
+5424      svchost.exe         0.00      0.07
+5520      ms-teams.exe        0.00      0.31
+5724      svchost.exe         0.00      0.06
+5884      Code.exe            0.00      0.79
+5916      pet.exe             0.00      0.05
+5948      DAX3API.exe         0.00      0.10
+6076      Code.exe            0.00      0.60
+6208      msedge.exe          0.00      0.00
+6416      svchost.exe         0.00      0.05
+6508      svchost.exe         0.00      0.10
+6692      WmiPrvSE.exe        0.00      0.12
+6732      svchost.exe         0.00      0.16
+6748      RuntimeBroker.exe   0.00      0.20
+6792      Code.exe            0.00      1.93
+7028      svchost.exe         0.00      0.09
+7240      mc-fw-host.exe      0.00      0.19
+7376      sihost.exe          0.00      0.33
+7560      NgcIso.exe          0.00      0.02
+7580      svchost.exe         0.00      0.07
+7608      unsecapp.exe        0.00      0.07
+8124      svchost.exe         0.00      0.05
+8232      svchost.exe         0.00      0.21
+8276      SearchIndexer.exe   0.00      0.27
+8476      python.exe          0.00      0.16
+8484      AggregatorHost.exe  0.00      0.10
+8672      svchost.exe         0.00      0.21
+8760      svchost.exe         0.00      0.06
+8912      SDXHelper.exe       0.00      0.20
+8916      svchost.exe         0.00      0.18
+9004      chrome.exe          0.00      0.86
+9240      audiodg.exe         0.00      0.21
+9288      svchost.exe         0.00      0.27
+9508      TrustedInstaller.exe0.00      0.06
+9568      backgroundTaskHost.exe0.00      0.18
+9668      ipf_helper.exe      0.00      0.08
+9704      AutoModeDetect.exe  0.00      0.09
+9720      uihost.exe          0.00      0.18
+9780      crashpad_handler.exe0.00      0.05
+9784      conhost.exe         0.00      0.06
+10012     svchost.exe         0.00      0.10
+10216     msedgewebview2.exe  0.00      0.12
+10248     svchost.exe         0.00      0.27
+10268     BdeUISrv.exe        0.00      0.07
+10340     taskhostw.exe       0.00      0.15
+10428     svchost.exe         0.00      0.20
+10628     svchost.exe         0.00      0.10
+10648     svchost.exe         0.00      0.10
+10744     powershell.exe      0.00      0.36
+10852     Code.exe            0.00      1.20
+10976     svchost.exe         0.00      0.04
+11112     FnHotkeyCapsLKNumLK.exe0.00      0.10
+11120     StoreDesktopExtension.exe0.00      0.16
+11128     svchost.exe         0.00      0.16
+11140     explorer.exe        0.00      2.06
+11228     msedge.exe          0.00      1.23
+11232     msedgewebview2.exe  0.00      0.31
+11312     FnHotkeyUtility.exe 0.00      0.27
+11396     AppActions.exe      0.00      0.21
+11464     svchost.exe         0.00      0.10
+11492     unsecapp.exe        0.00      0.07
+11604     CrossDeviceResume.exe0.00      0.41
+11736     FaceBeautify.exe    0.00      0.09
+11796     LenovoVantage-(VantageCoreAddin).exe0.00      0.03
+11804     LsaToast.exe        0.00      0.32
+11832     RuntimeBroker.exe   0.00      0.18
+12092     svchost.exe         0.00      0.17
+12300     ms-teams.exe        0.00      0.26
+12312     SystemSettings.exe  0.00      0.02
+12368     OneDrive.exe        0.00      1.39
+12444     SearchHost.exe      0.00      0.85
+12452     StartMenuExperienceHost.exe0.00      0.95
+12468     chrome.exe          0.00      1.55
+12664     WidgetBoard.exe     0.00      0.23
+12776     RuntimeBroker.exe   0.00      0.41
+12784     svchost.exe         0.00      0.14
+13168     svchost.exe         0.00      0.15
+13200     powershell.exe      0.00      0.59
+13268     WidgetService.exe   0.00      0.19
+13360     msedge.exe          0.00      0.06
+13476     msedgewebview2.exe  0.00      0.68
+13540     msedgewebview2.exe  0.00      0.06
+13756     msedgewebview2.exe  0.00      0.42
+13772     msedgewebview2.exe  0.00      0.24
+13824     msedgewebview2.exe  0.00      0.12
+13972     msedgewebview2.exe  0.00      0.44
+14156     msedgewebview2.exe  0.00      1.80
+14196     msedge.exe          0.00      0.00
+14284     msedgewebview2.exe  0.00      3.37
+14328     MicrosoftStartFeedProvider.exe0.00      0.32
+14372     msedge.exe          0.00      0.20
+14448     svchost.exe         0.00      0.17
+14696     SpotifyLauncher.exe 0.00      0.18
+14876     msedgewebview2.exe  0.00      0.16
+14952     WmiApSrv.exe        0.00      0.07
+15124     svchost.exe         0.00      0.16
+15272     RuntimeBroker.exe   0.00      0.18
+15392     WhatsApp.Root.exe   0.00      1.62
+15516     SecurityHealthSystray.exe0.00      0.08
+15536     SecurityHealthService.exe0.00      0.19
+15648     RuntimeBroker.exe   0.00      0.08
+15736     msedgewebview2.exe  0.00      1.25
+15764     msedgewebview2.exe  0.00      0.06
+15932     msedgewebview2.exe  0.00      0.53
+15940     msedgewebview2.exe  0.00      0.27
+15992     msedgewebview2.exe  0.00      0.13
+16312     Code.exe            0.00      0.18
+16416     svchost.exe         0.00      0.06
+16544     AppProvisioningPlugin.exe0.00      0.20
+16552     conhost.exe         0.00      0.06
+16564     svchost.exe         0.00      0.10
+16712     svchost.exe         0.00      0.18
+16848     Code.exe            0.00      0.58
+17036     msedgewebview2.exe  0.00      0.06
+17096     RtkAudUService64.exe0.00      0.11
+17128     svchost.exe         0.00      0.10
+17144     Locator.exe         0.00      0.03
+17148     msedgewebview2.exe  0.00      0.53
+17180     chrome.exe          0.00      2.54
+17220     dllhost.exe         0.00      0.06
+17264     msedgewebview2.exe  0.00      0.42
+17368     svchost.exe         0.00      0.08
+17380     msedgewebview2.exe  0.00      0.03
+17592     backgroundTaskHost.exe0.00      0.19
+17728     ms-teams.exe        0.00      0.25
+17736     msedgewebview2.exe  0.00      1.48
+17828     svchost.exe         0.00      0.09
+18068     msedge.exe          0.00      0.55
+18156     msedgewebview2.exe  0.00      0.43
+18196     msedge.exe          0.00      0.67
+18364     WUDFHost.exe        0.00      0.07
+18404     RuntimeBroker.exe   0.00      0.06
+18456     svchost.exe         0.00      0.07
+18480     msedge.exe          0.00      0.18
+19192     ApplicationFrameHost.exe0.00      0.27
+19256     Code.exe            0.00      0.29
+19312     SearchProtocolHost.exe0.00      0.11
+19424     msedgewebview2.exe  0.00      0.04
+19596     msedgewebview2.exe  0.00      0.30
+19620     msedgewebview2.exe  0.00      0.24
+19720     LenovoVantage-(GenericMessagingAddin).exe0.00      0.03
+19740     ShellHost.exe       0.00      0.29
+19868     MoNotificationUx.exe0.00      0.08
+19872     Grammarly.Desktop.exe0.00      1.80
+19904     FileSyncHelper.exe  0.00      0.16
+20072     msedgewebview2.exe  0.00      0.80
+20308     msedgewebview2.exe  0.00      0.06
+20564     backgroundTaskHost.exe0.00      0.01
+20640     WmiPrvSE.exe        0.00      0.12
+20648     msedge.exe          0.00      0.59
+20660     LenovoVantage-(SmartDisplayAddin).exe0.00      0.06
+20812     conhost.exe         0.00      0.05
+21192     svchost.exe         0.00      0.06
+21288     svchost.exe         0.00      0.06
+21380     svchost.exe         0.00      0.08
+21528     chrome.exe          0.00      0.17
+21660     UserOOBEBroker.exe  0.00      0.07
+21688     OneDrive.Sync.Service.exe0.00      0.37
+21696     CrossDeviceService.exe0.00      0.52
+21788     sppsvc.exe          0.00      0.13
+21852     backgroundTaskHost.exe0.00      0.12
+21928     RuntimeBroker.exe   0.00      0.08
+21980     conhost.exe         0.00      0.05
+22024     Code.exe            0.00      0.91
+22196     svchost.exe         0.00      0.08
+22368     svchost.exe         0.00      0.08
+22864     Code.exe            0.00      0.70
+23316     svchost.exe         0.00      0.23
+23908     backgroundTaskHost.exe0.00      0.15
+24148     RuntimeBroker.exe   0.00      0.21
+24152     msedgewebview2.exe  0.00      0.24
+24512     Lenovo.Modern.ImController.PluginHost.Device.exe0.00      0.23
+24548     svchost.exe         0.00      0.07
+24904     LockApp.exe         0.00      0.63
+24940     backgroundTaskHost.exe0.00      0.03
+25108     smartscreen.exe     0.00      0.08
+25496     unsecapp.exe        0.00      0.06
+25564     svchost.exe         0.00      0.17
+[2025-12-04 20:39:24] SYSTEM STATS
+CPU Usage: 31.8%
+Memory Usage: 67.9%
+Disk I/O: 57.19 MB/s
+Network I/O: 0.11 MB/s
+Email alert sent successfully
+[2025-12-04 20:39:29] SYSTEM STATS
+CPU Usage: 20.4%
+Memory Usage: 67.9%
+Disk I/O: 107.01 MB/s
+Network I/O: 0.22 MB/s
+[2025-12-04 20:39:34] SYSTEM STATS
+CPU Usage: 16.8%
+Memory Usage: 67.5%
+Disk I/O: 133.67 MB/s
+Network I/O: 0.02 MB/s
+[2025-12-04 20:39:39] SYSTEM STATS
+CPU Usage: 11.5%
+Memory Usage: 67.3%
+Disk I/O: 139.18 MB/s
+Network I/O: 0.00 MB/s
+[2025-12-04 20:39:44] USB REMOVED: D:\
+Process Snapshot
+PID        NAME                CPU%      MEM%
+0         System Idle Process 999.20    0.00
+4         System              15.20     0.08
+188                           0.00      0.38
+232       Registry            0.00      0.27
+760       svchost.exe         0.10      0.11
+792       smss.exe            0.00      0.01
+1132      csrss.exe           0.00      0.04
+1220      wininit.exe         0.00      0.05
+1228      csrss.exe           0.00      0.05
+1288      winlogon.exe        0.00      0.10
+1300      ctfmon.exe          0.10      0.23
+1348      TiWorker.exe        0.00      0.11
+1368      services.exe        0.40      0.08
+1376      LsaIso.exe          0.10      0.02
+1392      MoUsoCoreWorker.exe 0.00      0.23
+1396      lsass.exe           1.20      0.21
+1412      svchost.exe         0.40      0.07
+1468      svchost.exe         0.00      0.05
+1524      msedge.exe          0.00      0.12
+1536      fontdrvhost.exe     0.00      0.02
+1544      fontdrvhost.exe     0.00      0.03
+1560      svchost.exe         0.30      0.28
+1568      TextInputHost.exe   0.00      0.61
+1652      WUDFHost.exe        0.00      0.08
+1660      msedgewebview2.exe  0.00      0.14
+1708      svchost.exe         1.00      0.14
+1716      chrome.exe          0.00      0.06
+1752      svchost.exe         0.00      0.08
+1836      svchost.exe         0.00      0.06
+1860      dwm.exe             6.90      1.13
+1880      WUDFHost.exe        0.00      0.12
+1912      chrome.exe          0.20      2.12
+1952      svchost.exe         0.00      0.04
+1980      svchost.exe         0.10      0.08
+1996      msedge.exe          0.00      0.53
+2004      svchost.exe         0.00      0.08
+2068      svchost.exe         0.00      0.06
+2088      svchost.exe         0.00      0.09
+2096      svchost.exe         0.00      0.08
+2104      svchost.exe         0.00      0.10
+2200      mc-web-view.exe     0.10      0.17
+2252      IntelCpHDCPSvc.exe  0.00      0.05
+2260      svchost.exe         0.10      0.14
+2268      svchost.exe         0.00      0.07
+2388      ShellExperienceHost.exe0.20      0.57
+2428      svchost.exe         0.00      0.09
+2436      svchost.exe         0.10      0.14
+2452      conhost.exe         0.00      0.04
+2504      svchost.exe         0.10      0.06
+2544      svchost.exe         0.00      0.04
+2660      RuntimeBroker.exe   0.00      0.30
+2680      WUDFHost.exe        0.00      0.09
+2724      svchost.exe         0.00      0.09
+2804      Code.exe            6.50      0.90
+2924      mc-wps-secdashboardservice.exe0.00      0.06
+2956      chrome.exe          0.00      0.36
+2992      svchost.exe         0.00      0.08
+3000      svchost.exe         0.00      0.06
+3028      svchost.exe         0.00      0.14
+3092      svchost.exe         0.20      0.12
+3100      svchost.exe         0.00      0.06
+3108      svchost.exe         0.00      0.05
+3120      WUDFHost.exe        0.00      0.04
+3232      RuntimeBroker.exe   0.00      0.12
+3288      svchost.exe         0.00      0.08
+3296      MemCompression      1.10      5.66
+3364      svchost.exe         0.00      0.07
+3372      svchost.exe         0.00      0.06
+3428      WUDFHost.exe        0.00      0.05
+3528      svchost.exe         0.00      0.16
+3572      svchost.exe         0.00      0.06
+3680      svchost.exe         0.10      0.15
+3740      NisSrv.exe          0.10      0.09
+3788      msedge.exe          0.00      0.26
+3876      svchost.exe         0.00      0.08
+3948      svchost.exe         0.10      0.15
+3964      chrome.exe          0.00      1.48
+3976      svchost.exe         0.10      0.13
+3992      chrome.exe          0.00      0.39
+4036      spoolsv.exe         0.00      0.12
+4068      chrome.exe          0.00      0.19
+4088      svchost.exe         0.00      0.12
+4108      svchost.exe         0.00      0.06
+4124      svchost.exe         0.00      0.15
+4244      ElevocControlService.exe0.00      0.07
+4260      OneApp.IGCC.WinService.exe0.00      0.23
+4272      Lenovo.Modern.ImController.exe0.00      0.31
+4280      svchost.exe         0.40      0.42
+4304      svchost.exe         0.00      0.19
+4312      LsaRpcServer.exe    0.00      0.21
+4320      LenovoVantageService.exe0.10      0.39
+4328      LenovoUtilityService.exe0.00      0.11
+4336      LNBITSSvc.exe       0.20      0.12
+4344      svchost.exe         0.00      0.19
+4368      DAX3API.exe         0.00      0.13
+4384      chrome.exe          0.00      0.14
+4388      IntelAudioService.exe0.00      0.18
+4400      ipfsvc.exe          0.00      0.04
+4456      RuntimeBroker.exe   0.00      0.07
+4492      jhi_service.exe     0.00      0.05
+4508      svchost.exe         0.00      0.09
+4524      servicehost.exe     0.00      0.25
+4560      mc-fw-host.exe      3.10      1.19
+4584      RtkBtManServ.exe    0.00      0.05
+4600      OfficeClickToRun.exe0.00      0.29
+4624      ipf_uf.exe          0.00      0.05
+4644      SmartAppearanceSVC.exe0.10      0.08
+4656      RtkAudUService64.exe0.40      0.10
+4668      MpDefenderCoreService.exe0.00      0.16
+4728      svchost.exe         0.00      0.04
+4752      UDClientService.exe 0.30      0.32
+4796      svchost.exe         0.10      0.16
+4832      WMIRegistrationService.exe0.00      0.10
+4856      svchost.exe         0.00      0.17
+4860      svchost.exe         0.00      0.06
+4896      MsMpEng.exe         8.50      1.51
+4928      svchost.exe         0.00      0.15
+5024      FileCoAuth.exe      0.30      0.27
+5060      backgroundTaskHost.exe0.00      0.13
+5068      dllhost.exe         0.00      0.06
+5340      svchost.exe         0.00      0.07
+5380      svchost.exe         0.00      0.06
+5408      svchost.exe         0.00      0.07
+5424      svchost.exe         0.00      0.07
+5520      ms-teams.exe        0.00      0.31
+5724      svchost.exe         0.00      0.06
+5884      Code.exe            0.10      0.79
+5916      pet.exe             0.00      0.05
+5948      DAX3API.exe         0.00      0.10
+6076      Code.exe            0.30      0.60
+6208      msedge.exe          0.00      0.00
+6416      svchost.exe         0.00      0.05
+6508      svchost.exe         0.00      0.10
+6692      WmiPrvSE.exe        0.20      0.12
+6732      svchost.exe         0.10      0.16
+6748      RuntimeBroker.exe   0.10      0.20
+6792      Code.exe            18.10     2.05
+7028      svchost.exe         0.00      0.09
+7240      mc-fw-host.exe      0.00      0.19
+7376      sihost.exe          0.30      0.33
+7560      NgcIso.exe          0.00      0.02
+7580      svchost.exe         0.00      0.07
+7608      unsecapp.exe        0.00      0.07
+8124      svchost.exe         0.00      0.05
+8232      svchost.exe         0.00      0.21
+8276      SearchIndexer.exe   1.90      0.27
+8476      python.exe          4.10      0.18
+8484      AggregatorHost.exe  0.00      0.10
+8672      svchost.exe         0.00      0.21
+8760      svchost.exe         0.10      0.06
+8912      SDXHelper.exe       0.10      0.20
+8916      svchost.exe         0.00      0.18
+9004      chrome.exe          0.00      0.86
+9240      audiodg.exe         0.50      0.19
+9288      svchost.exe         0.00      0.27
+9508      TrustedInstaller.exe0.00      0.06
+9568      backgroundTaskHost.exe0.00      0.18
+9668      ipf_helper.exe      0.10      0.08
+9704      AutoModeDetect.exe  0.00      0.09
+9720      uihost.exe          0.00      0.18
+9780      crashpad_handler.exe0.00      0.05
+9784      conhost.exe         0.00      0.06
+10012     svchost.exe         0.00      0.10
+10216     msedgewebview2.exe  0.00      0.12
+10248     svchost.exe         0.10      0.27
+10340     taskhostw.exe       0.00      0.15
+10428     svchost.exe         1.20      0.20
+10628     svchost.exe         0.00      0.10
+10648     svchost.exe         0.00      0.10
+10744     powershell.exe      0.00      0.36
+10852     Code.exe            0.70      1.20
+10976     svchost.exe         0.00      0.04
+11112     FnHotkeyCapsLKNumLK.exe0.00      0.10
+11120     StoreDesktopExtension.exe0.00      0.16
+11128     svchost.exe         0.00      0.16
+11140     explorer.exe        3.10      2.16
+11228     msedge.exe          0.10      1.23
+11232     msedgewebview2.exe  0.00      0.31
+11312     FnHotkeyUtility.exe 0.00      0.27
+11396     AppActions.exe      0.00      0.21
+11464     svchost.exe         0.00      0.10
+11492     unsecapp.exe        0.00      0.07
+11604     CrossDeviceResume.exe0.00      0.41
+11736     FaceBeautify.exe    0.00      0.09
+11796     LenovoVantage-(VantageCoreAddin).exe0.00      0.03
+11804     LsaToast.exe        0.00      0.32
+11832     RuntimeBroker.exe   0.00      0.18
+12092     svchost.exe         0.00      0.17
+12300     ms-teams.exe        0.00      0.26
+12312     SystemSettings.exe  0.00      0.02
+12368     OneDrive.exe        75.20     1.51
+12444     SearchHost.exe      0.00      0.85
+12452     StartMenuExperienceHost.exe0.00      0.95
+12468     chrome.exe          0.30      1.55
+12664     WidgetBoard.exe     0.00      0.23
+12712     msedgewebview2.exe  0.00      0.39
+12776     RuntimeBroker.exe   0.10      0.41
+12784     svchost.exe         0.00      0.14
+13168     svchost.exe         0.00      0.15
+13200     powershell.exe      0.00      0.59
+13268     WidgetService.exe   0.00      0.19
+13360     msedge.exe          0.00      0.06
+13476     msedgewebview2.exe  0.00      0.67
+13540     msedgewebview2.exe  0.00      0.06
+13756     msedgewebview2.exe  0.00      0.42
+13772     msedgewebview2.exe  0.00      0.24
+13824     msedgewebview2.exe  0.00      0.12
+13972     msedgewebview2.exe  0.00      0.44
+14156     msedgewebview2.exe  0.10      1.79
+14196     msedge.exe          0.00      0.00
+14284     msedgewebview2.exe  0.40      3.19
+14328     MicrosoftStartFeedProvider.exe0.00      0.32
+14372     msedge.exe          0.00      0.20
+14448     svchost.exe         0.00      0.17
+14456     msedgewebview2.exe  0.00      0.24
+14696     SpotifyLauncher.exe 0.30      0.18
+14876     msedgewebview2.exe  0.10      0.15
+14952     WmiApSrv.exe        0.00      0.07
+15124     svchost.exe         0.00      0.16
+15272     RuntimeBroker.exe   0.00      0.18
+15392     WhatsApp.Root.exe   0.30      1.62
+15516     SecurityHealthSystray.exe0.00      0.08
+15536     SecurityHealthService.exe0.00      0.19
+15648     RuntimeBroker.exe   0.00      0.08
+15736     msedgewebview2.exe  5.50      1.24
+15764     msedgewebview2.exe  0.00      0.06
+15932     msedgewebview2.exe  0.00      0.52
+15940     msedgewebview2.exe  0.00      0.27
+15992     msedgewebview2.exe  0.00      0.13
+16312     Code.exe            0.00      0.18
+16416     svchost.exe         0.00      0.06
+16544     AppProvisioningPlugin.exe0.00      0.20
+16552     conhost.exe         0.10      0.06
+16564     svchost.exe         0.00      0.10
+16712     svchost.exe         0.10      0.18
+16848     Code.exe            0.00      0.58
+17036     msedgewebview2.exe  0.00      0.06
+17096     RtkAudUService64.exe0.00      0.11
+17128     svchost.exe         0.00      0.10
+17144     Locator.exe         0.00      0.03
+17148     msedgewebview2.exe  0.00      0.52
+17180     chrome.exe          0.00      2.54
+17264     msedgewebview2.exe  0.00      0.42
+17368     svchost.exe         0.00      0.08
+17380     msedgewebview2.exe  0.00      0.03
+17592     backgroundTaskHost.exe0.00      0.19
+17728     ms-teams.exe        0.00      0.25
+17736     msedgewebview2.exe  0.00      1.47
+17828     svchost.exe         0.00      0.09
+18068     msedge.exe          0.00      0.55
+18196     msedge.exe          0.00      0.67
+18404     RuntimeBroker.exe   0.00      0.06
+18456     svchost.exe         0.00      0.07
+18480     msedge.exe          0.00      0.18
+18624     msedgewebview2.exe  0.00      0.55
+19192     ApplicationFrameHost.exe0.00      0.27
+19256     Code.exe            0.10      0.29
+19312     SearchProtocolHost.exe0.20      0.11
+19424     msedgewebview2.exe  0.00      0.04
+19596     msedgewebview2.exe  0.00      0.30
+19620     msedgewebview2.exe  0.00      0.24
+19720     LenovoVantage-(GenericMessagingAddin).exe0.00      0.03
+19740     ShellHost.exe       0.00      0.29
+19868     MoNotificationUx.exe0.00      0.08
+19872     Grammarly.Desktop.exe2.50      1.80
+19904     FileSyncHelper.exe  0.00      0.16
+20072     msedgewebview2.exe  0.00      0.80
+20308     msedgewebview2.exe  0.00      0.06
+20564     backgroundTaskHost.exe0.00      0.01
+20640     WmiPrvSE.exe        0.00      0.12
+20648     msedge.exe          0.00      0.59
+20660     LenovoVantage-(SmartDisplayAddin).exe0.20      0.06
+20812     conhost.exe         0.00      0.05
+21192     svchost.exe         0.00      0.06
+21288     svchost.exe         0.00      0.06
+21380     svchost.exe         0.00      0.08
+21528     chrome.exe          0.00      0.17
+21660     UserOOBEBroker.exe  0.00      0.07
+21688     OneDrive.Sync.Service.exe0.00      0.37
+21696     CrossDeviceService.exe0.00      0.52
+21852     backgroundTaskHost.exe0.00      0.12
+21928     RuntimeBroker.exe   0.00      0.08
+21980     conhost.exe         0.00      0.05
+22024     Code.exe            2.60      0.92
+22196     svchost.exe         0.00      0.08
+22368     svchost.exe         0.00      0.08
+22864     Code.exe            0.00      0.70
+23316     svchost.exe         0.30      0.23
+23908     backgroundTaskHost.exe0.00      0.15
+24128     msedgewebview2.exe  0.00      0.12
+24512     Lenovo.Modern.ImController.PluginHost.Device.exe0.00      0.23
+24548     svchost.exe         0.00      0.07
+24592     dllhost.exe         0.00      0.06
+24632     msedgewebview2.exe  0.00      0.06
+24816     msedgewebview2.exe  0.00      0.79
+24904     LockApp.exe         0.00      0.63
+24940     backgroundTaskHost.exe0.00      0.03
+25108     smartscreen.exe     0.00      0.08
+25496     unsecapp.exe        0.00      0.06
+25564     svchost.exe         0.00      0.17
+[2025-12-04 20:39:44] SYSTEM STATS
+CPU Usage: 12.7%
+Memory Usage: 67.4%
+Disk I/O: 71.04 MB/s
+Network I/O: 0.05 MB/s
+[2025-12-04 20:39:49] SYSTEM STATS
+CPU Usage: 9.6%
+Memory Usage: 67.1%
+Disk I/O: 3.20 MB/s
+Network I/O: 0.02 MB/s
+[2025-12-04 20:39:54] SYSTEM STATS
+CPU Usage: 8.6%
+Memory Usage: 66.9%
+Disk I/O: 2.86 MB/s
+Network I/O: 0.04 MB/s
+[2025-12-04 20:39:59] SYSTEM STATS
+CPU Usage: 5.0%
+Memory Usage: 66.6%
+Disk I/O: 26.25 MB/s
+Network I/O: 0.00 MB/s
+[2025-12-04 20:40:04] SYSTEM STATS
+CPU Usage: 5.5%
+Memory Usage: 66.6%
+Disk I/O: 1.05 MB/s
+Network I/O: 0.02 MB/s
+[2025-12-04 20:40:09] SYSTEM STATS
+CPU Usage: 3.9%
+Memory Usage: 66.6%
+Disk I/O: 1.95 MB/s
+Network I/O: 0.00 MB/s
+[2025-12-04 20:40:14] SYSTEM STATS
+CPU Usage: 2.5%
+Memory Usage: 66.6%
+Disk I/O: 0.66 MB/s
+Network I/O: 0.01 MB/s
+[2025-12-04 20:40:20] SYSTEM STATS
+CPU Usage: 3.9%
+Memory Usage: 66.6%
+Disk I/O: 0.62 MB/s
+Network I/O: 0.03 MB/s
